@@ -1,6 +1,6 @@
 import '@babel/polyfill'
 import Vue from 'vue'
-//import 'material-icons/iconfont/material-icons.css' 
+import 'material-icons/iconfont/material-icons.css' 
 import './plugins/vuetify'
 import App from './App.vue'
 import router from './router'
